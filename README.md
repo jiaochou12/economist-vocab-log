@@ -30,14 +30,14 @@ economist-vocab-log/
 
 ## 文章索引（在线阅读）
 
-在线阅读入口：**<https://xuan250.github.io/economist-vocab-log/>**（本文件就是它的首页）。下表链接直接在浏览器内嵌打开，不会触发下载，也不走 GitHub 文件页那套容易报错的 pdf.js。
+在线阅读入口：**<https://jiaochou12.github.io/economist-vocab-log/>**（本文件就是它的首页）。下表链接直接在浏览器内嵌打开，不会触发下载，也不走 GitHub 文件页那套容易报错的 pdf.js。
 
 | 日期 | 标题 | 在线阅读（Pages） | 备用（jsDelivr） |
 |------|------|------------------|------------------|
-| 2026-09-20 | How a Skateboarder Sees Los Angeles | [打开](https://xuan250.github.io/economist-vocab-log/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-20_How%20a%20Skateboarder%20Sees%20LosAngele.pdf) | [打开](https://cdn.jsdelivr.net/gh/xuan250/economist-vocab-log@main/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-20_How%20a%20Skateboarder%20Sees%20LosAngele.pdf) |
-| 2026-09-26 | When America walks away | [打开](https://xuan250.github.io/economist-vocab-log/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-26_When%20America%20walks%20away%20For%20decades%20America%20has%20enjoyed%20hegemony%20over%20the%20Middle.pdf) | [打开](https://cdn.jsdelivr.net/gh/xuan250/economist-vocab-log@main/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-26_When%20America%20walks%20away%20For%20decades%20America%20has%20enjoyed%20hegemony%20over%20the%20Middle.pdf) |
-| 2026-09-27 | New York Film Festival’s World of Cinema | [打开](https://xuan250.github.io/economist-vocab-log/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-27_New%20York%20Film%20Festival%E2%80%99s%20World%20of%20Cinema.pdf) | [打开](https://cdn.jsdelivr.net/gh/xuan250/economist-vocab-log@main/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-27_New%20York%20Film%20Festival%E2%80%99s%20World%20of%20Cinema.pdf) |
-| 2026-09-28 | Why house prices may be in trouble In a big serving of bad news, there are crumb | [打开](https://xuan250.github.io/economist-vocab-log/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-28_Why%20house%20prices%20may%20be%20in%20trouble%20In%20a%20big%20serving%20of%20bad%20news%2C%20there%20are%20crumb.pdf) | [打开](https://cdn.jsdelivr.net/gh/xuan250/economist-vocab-log@main/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-28_Why%20house%20prices%20may%20be%20in%20trouble%20In%20a%20big%20serving%20of%20bad%20news%2C%20there%20are%20crumb.pdf) |
+| 2026-09-20 | How a Skateboarder Sees Los Angeles | [打开](https://jiaochou12.github.io/economist-vocab-log/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-20_How%20a%20Skateboarder%20Sees%20LosAngele.pdf) | [打开](https://cdn.jsdelivr.net/gh/jiaochou12/economist-vocab-log@main/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-20_How%20a%20Skateboarder%20Sees%20LosAngele.pdf) |
+| 2026-09-26 | When America walks away | [打开](https://jiaochou12.github.io/economist-vocab-log/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-26_When%20America%20walks%20away%20For%20decades%20America%20has%20enjoyed%20hegemony%20over%20the%20Middle.pdf) | [打开](https://cdn.jsdelivr.net/gh/jiaochou12/economist-vocab-log@main/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-26_When%20America%20walks%20away%20For%20decades%20America%20has%20enjoyed%20hegemony%20over%20the%20Middle.pdf) |
+| 2026-09-27 | New York Film Festival’s World of Cinema | [打开](https://jiaochou12.github.io/economist-vocab-log/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-27_New%20York%20Film%20Festival%E2%80%99s%20World%20of%20Cinema.pdf) | [打开](https://cdn.jsdelivr.net/gh/jiaochou12/economist-vocab-log@main/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-27_New%20York%20Film%20Festival%E2%80%99s%20World%20of%20Cinema.pdf) |
+| 2026-09-28 | Why house prices may be in trouble In a big serving of bad news, there are crumb | [打开](https://jiaochou12.github.io/economist-vocab-log/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-28_Why%20house%20prices%20may%20be%20in%20trouble%20In%20a%20big%20serving%20of%20bad%20news%2C%20there%20are%20crumb.pdf) | [打开](https://cdn.jsdelivr.net/gh/jiaochou12/economist-vocab-log@main/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-28_Why%20house%20prices%20may%20be%20in%20trouble%20In%20a%20big%20serving%20of%20bad%20news%2C%20there%20are%20crumb.pdf) |
 
 约定：
 
@@ -79,3 +79,4 @@ git commit -m "update: 2026-09-29 期 + 5 个生词"
 - 2026-09-29 初始化仓库，同步生词本；移除所有脚本，仓库精简为「README + 经济学人原文 + 生词本」三部分。
 - 2026-09-29 仓库定名 `economist-vocab-log`，推送到 GitHub（xuan250/economist-vocab-log）。
 - 2026-09-29 新增「文章索引」：开启 GitHub Pages 后，通过 README 里的绝对链接在浏览器内嵌阅读 PDF（Pages 无目录浏览，必须靠索引）。
+- 2026-09-29 GitHub 用户名由 xuan250 改为 jiaochou12，Pages / jsDelivr 全部在线链接与远程仓库地址同步更新。
