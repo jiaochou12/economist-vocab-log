@@ -28,6 +28,21 @@ economist-vocab-log/
     └── 单词本.docx        生词表（单词 | 词性 | 中文意思 | 查询日期）
 ```
 
+## 文章索引（在线阅读）
+
+在线阅读入口：**<https://xuan250.github.io/economist-vocab-log/>**（本文件就是它的首页）。下表链接直接在浏览器内嵌打开，不会触发下载，也不走 GitHub 文件页那套容易报错的 pdf.js。
+
+| 日期 | 标题 | 在线阅读（Pages） | 备用（jsDelivr） |
+|------|------|------------------|------------------|
+| 2026-09-20 | How a Skateboarder Sees Los Angeles | [打开](https://xuan250.github.io/economist-vocab-log/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-20_How%20a%20Skateboarder%20Sees%20LosAngele.pdf) | [打开](https://cdn.jsdelivr.net/gh/xuan250/economist-vocab-log@main/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-20_How%20a%20Skateboarder%20Sees%20LosAngele.pdf) |
+| 2026-09-26 | When America walks away | [打开](https://xuan250.github.io/economist-vocab-log/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-26_When%20America%20walks%20away%20For%20decades%20America%20has%20enjoyed%20hegemony%20over%20the%20Middle.pdf) | [打开](https://cdn.jsdelivr.net/gh/xuan250/economist-vocab-log@main/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-26_When%20America%20walks%20away%20For%20decades%20America%20has%20enjoyed%20hegemony%20over%20the%20Middle.pdf) |
+
+约定：
+
+- 新增文章后在上表加一行（日期 + 标题 + 两个链接），否则 Pages 首页点不到它——Pages 不提供目录浏览，只渲染 README。
+- `github.io` 打不开时用备用列；jsDelivr 域名还可换 `fastly.jsdelivr.net` / `gcore.jsdelivr.net` / `testingcf.jsdelivr.net`。
+- 刚推上去的文件在 jsDelivr 上可能有缓存延迟，需要时访问 `purge.jsdelivr.net` 加同样路径刷新。
+
 ## 更新方式
 
 **文章**：读完一期，把文章文件放进 `经济学人原文/年/月/`，命名 `YYYY-MM-DD_标题.docx`。
@@ -61,3 +76,4 @@ git commit -m "update: 2026-09-29 期 + 5 个生词"
 
 - 2026-09-29 初始化仓库，同步生词本；移除所有脚本，仓库精简为「README + 经济学人原文 + 生词本」三部分。
 - 2026-09-29 仓库定名 `economist-vocab-log`，推送到 GitHub（xuan250/economist-vocab-log）。
+- 2026-09-29 新增「文章索引」：开启 GitHub Pages 后，通过 README 里的绝对链接在浏览器内嵌阅读 PDF（Pages 无目录浏览，必须靠索引）。
