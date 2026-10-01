@@ -80,8 +80,10 @@ git commit -m "update: 2026-09-29 期 + 5 个生词"
 
 ## 更新记录
 
+> 本节只记**技术性与账号类**变更（目录结构、链接方案、Pages / jsDelivr、认证方式、远程仓库等）；日常新增文章、新增生词不在此逐条登记，看 git log 与文章索引即可。
+
 - 2026-09-29 初始化仓库，同步生词本；移除所有脚本，仓库精简为「README + 经济学人原文 + 生词本」三部分。
 - 2026-09-29 仓库定名 `economist-vocab-log`，推送到 GitHub（xuan250/economist-vocab-log）。
 - 2026-09-29 新增「文章索引」：开启 GitHub Pages 后，通过 README 里的绝对链接在浏览器内嵌阅读 PDF（Pages 无目录浏览，必须靠索引）。
 - 2026-09-29 GitHub 用户名由 xuan250 改为 jiaochou12，Pages / jsDelivr 全部在线链接与远程仓库地址同步更新。
-- 2026-10-01 新增 2026-10-01 期《内衣迷的五本书》（纽约客），文章索引同步添加在线阅读链接。
+- 2026-10-01 更新渠道切换到 Linux（WSL）：配置 `credential.helper = store` 完成 GitHub 认证，之后本仓库的归档、生词与推送均在 WSL 侧完成，不再依赖 Windows 侧 git。
