@@ -91,3 +91,4 @@ git commit -m "update: 2026-09-29 期 + 5 个生词"
 - 2026-09-29 新增「文章索引」：开启 GitHub Pages 后，通过 README 里的绝对链接在浏览器内嵌阅读 PDF（Pages 无目录浏览，必须靠索引）。
 - 2026-09-29 GitHub 用户名由 xuan250 改为 jiaochou12，Pages / jsDelivr 全部在线链接与远程仓库地址同步更新。
 - 2026-10-01 更新渠道切换到 Linux（WSL）：配置 `credential.helper = store` 完成 GitHub 认证，之后本仓库的归档、生词与推送均在 WSL 侧完成，不再依赖 Windows 侧 git。
+- 2026-10-01 pi（WSL 侧）推送通道验证：由编码代理直接完成 README 修改、commit 与 push，验证 WSL 凭证可用。
