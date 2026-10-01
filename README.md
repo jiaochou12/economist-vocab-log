@@ -41,6 +41,7 @@ economist-vocab-log/
 | 2026-09-28 | Why house prices may be in trouble In a big serving of bad news, there are crumb | [打开](https://jiaochou12.github.io/economist-vocab-log/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-28_Why%20house%20prices%20may%20be%20in%20trouble%20In%20a%20big%20serving%20of%20bad%20news%2C%20there%20are%20crumb.pdf) | [打开](https://cdn.jsdelivr.net/gh/jiaochou12/economist-vocab-log@main/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-28_Why%20house%20prices%20may%20be%20in%20trouble%20In%20a%20big%20serving%20of%20bad%20news%2C%20there%20are%20crumb.pdf) |
 | 2026-09-29 | 回归田园：他们的今天 | [打开](https://jiaochou12.github.io/economist-vocab-log/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-29_%E5%9B%9E%E5%BD%92%E7%94%B0%E5%9B%AD%EF%BC%9A%E4%BB%96%E4%BB%AC%E7%9A%84%E4%BB%8A%E5%A4%A9.pdf) | [打开](https://cdn.jsdelivr.net/gh/jiaochou12/economist-vocab-log@main/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-29_%E5%9B%9E%E5%BD%92%E7%94%B0%E5%9B%AD%EF%BC%9A%E4%BB%96%E4%BB%AC%E7%9A%84%E4%BB%8A%E5%A4%A9.pdf) |
 | 2026-09-30 | 巴西背弃未来 大选难挽颓势 | [打开](https://jiaochou12.github.io/economist-vocab-log/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-30_%E5%B7%B4%E8%A5%BF%E8%83%8C%E5%BC%83%E6%9C%AA%E6%9D%A5%20%E5%A4%A7%E9%80%89%E9%9A%BE%E6%8C%BD%E9%A2%93%E5%8A%BF.pdf) | [打开](https://cdn.jsdelivr.net/gh/jiaochou12/economist-vocab-log@main/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/09/2026-09-30_%E5%B7%B4%E8%A5%BF%E8%83%8C%E5%BC%83%E6%9C%AA%E6%9D%A5%20%E5%A4%A7%E9%80%89%E9%9A%BE%E6%8C%BD%E9%A2%93%E5%8A%BF.pdf) |
+| 2026-10-01 | 内衣迷的五本书 | [打开](https://jiaochou12.github.io/economist-vocab-log/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/10/2026-10-01_%E5%86%85%E8%A1%A3%E8%BF%B7%E7%9A%84%E4%BA%94%E6%9C%AC%E4%B9%A6.pdf) | [打开](https://cdn.jsdelivr.net/gh/jiaochou12/economist-vocab-log@main/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%8E%9F%E6%96%87/2026/10/2026-10-01_%E5%86%85%E8%A1%A3%E8%BF%B7%E7%9A%84%E4%BA%94%E6%9C%AC%E4%B9%A6.pdf) |
 
 约定：
 
@@ -83,3 +84,4 @@ git commit -m "update: 2026-09-29 期 + 5 个生词"
 - 2026-09-29 仓库定名 `economist-vocab-log`，推送到 GitHub（xuan250/economist-vocab-log）。
 - 2026-09-29 新增「文章索引」：开启 GitHub Pages 后，通过 README 里的绝对链接在浏览器内嵌阅读 PDF（Pages 无目录浏览，必须靠索引）。
 - 2026-09-29 GitHub 用户名由 xuan250 改为 jiaochou12，Pages / jsDelivr 全部在线链接与远程仓库地址同步更新。
+- 2026-10-01 新增 2026-10-01 期《内衣迷的五本书》（纽约客），文章索引同步添加在线阅读链接。
