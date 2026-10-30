@@ -189,3 +189,4 @@ git commit -m "update: 2026-09-29 期 + 5 个生词"
 - 2026-09-29 GitHub 用户名由 xuan250 改为 jiaochou12，Pages / jsDelivr 全部在线链接与远程仓库地址同步更新。
 - 2026-10-01 更新渠道切换到 Linux（WSL）：配置 `credential.helper = store` 完成 GitHub 认证，之后本仓库的归档、生词与推送均在 WSL 侧完成，不再依赖 Windows 侧 git。
 - 2026-10-01 pi（WSL 侧）推送通道验证：由编码代理直接完成 README 修改、commit 与 push，验证 WSL 凭证可用。
+- 2026-10-30 新增 epub 备用归档通道：站点（economist.dpdns.org）停更时，用 `自动获取文章/epub_to_archive.py` 把整期 epub 按 economist.com 真实发布日期拆成黑底白字 PDF 入档（图表页/漫画页跳过），并打印索引行；本仓库新增 `.gitignore` 忽略整期 `*.epub`——epub 只作本地来源，不入库。
